@@ -5,4 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/huxxcb/itonk
+          uri: https://github.com/huxxcb/itonk16-gr2/config
+
+  server:
+    port: 8888
