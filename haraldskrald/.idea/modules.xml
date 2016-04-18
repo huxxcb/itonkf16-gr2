@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlackFridayService.iml" filepath="$PROJECT_DIR$/BlackFridayService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayApplication.iml" filepath="$PROJECT_DIR$/GatewayApplication.iml" />
     </modules>
   </component>
 </project>
