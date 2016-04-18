@@ -1,6 +1,0 @@
-configuration:
-	projectName: haraldskrald-config
-server:
-	port: 8000
-message:
-	greeting: hello is working good
