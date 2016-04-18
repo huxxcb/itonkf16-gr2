@@ -7,5 +7,5 @@ spring:
         git:
           uri: https://github.com/huxxcb/itonk-config
 
-  server:
-    port: 9000
+server:
+  port: 9000
