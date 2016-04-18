@@ -23,12 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ConfigServer" />
-        <module name="GatewayApplication" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ConfigServer" target="1.8" />
-      <module name="GatewayApplication" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
