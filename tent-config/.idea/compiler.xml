@@ -22,14 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ConfigServer" />
-        <module name="GatewayApplication" />
+        <module name="tent-config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="BlackFridayService" target="1.8" />
-      <module name="ConfigServer" target="1.8" />
-      <module name="GatewayApplication" target="1.8" />
+      <module name="tent-config" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
