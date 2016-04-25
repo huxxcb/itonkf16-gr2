@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2c7d7ba-bc3f-4b42-bcf4-70c194b4d462" name="Default" comment="client initial commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../haraldskrald-rest/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="692fc8fd-7a84-4a92-82c8-8bda1a157588" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <ignored path="tent-config.iws" />
+    <ignored path="hammerRest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$PROJECT_DIR$/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,61 +20,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="tent-config" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TentConfigApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/itonkf16/gr2/TentConfigApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <favorites_list name="hammerRest" />
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Mat" />
-      </list>
-    </option>
-    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
-      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
@@ -91,17 +41,12 @@
         <option name="mavenHome" value="Bundled (Maven 3)" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="999" />
+    <option name="x" value="992" />
+    <option name="y" value="52" />
+    <option name="width" value="917" />
+    <option name="height" value="906" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -129,94 +74,32 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
+              <option name="myItemId" value="hammerRest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
+              <option name="myItemId" value="hammerRest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tent-config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gr2" />
+              <option name="myItemId" value="hammerRest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../haraldskrald-rest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -234,10 +117,8 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../ConfigServer/src/main/resources/bootstrap.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/.idea/misc.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/haraldskrald-rest.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../tent-config/.idea/workspace.xml</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -245,10 +126,76 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../ConfigServer/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/src/main/java/itonkf16/gr2/Greeter.java</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/src/main/resources/bootstrap.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/main/java/com/itonkf16/gr2/Greeter.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/.mvn/wrapper/maven-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/mvnw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/mvnw.cmd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/src/main/java/com/haraldskrald/GatewayUiApplication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/src/main/resources/application.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../Gateway-ui/src/test/java/com/haraldskrald/GatewayUiApplicationTests.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/copyright/profiles_settings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__junit_junit_4_12.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_32.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_32.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_32.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_32.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_16.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_1_0_RC3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_1_0_RC2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_1_0_RC3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_1_0_RC3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_1_0_RC2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_0_3_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/.mvn/wrapper/maven-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/bikeRest.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/mvnw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/mvnw.cmd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/src/main/java/com/haraldskrald/BikeRestApplication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/src/main/resources/application.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../bikeRest/src/test/java/com/haraldskrald/BikeRestApplicationTests.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../haraldskrald-rest/.mvn/wrapper/maven-wrapper.properties</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -337,7 +284,7 @@
       </FILE-GROUP>
     </UpdatedFiles>
   </component>
-  <component name="RunManager" selected="Spring Boot.TentConfigApplication">
+  <component name="RunManager" selected="Spring Boot.HammerRestApplication">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -552,7 +499,6 @@
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
-      <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
@@ -631,7 +577,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tent-config" />
+      <module name="hammerRest" />
       <envs />
       <method />
     </configuration>
@@ -718,12 +664,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -739,15 +679,15 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="TentConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration default="false" name="HammerRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itonkf16.gr2.TentConfigApplication" />
-      <module name="tent-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haraldskrald.HammerRestApplication" />
+      <module name="hammerRest" />
       <envs />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.TentConfigApplication" />
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.HammerRestApplication" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -755,59 +695,72 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c2c7d7ba-bc3f-4b42-bcf4-70c194b4d462" name="Default" comment="" />
-      <created>1460983201383</created>
+      <changelist id="692fc8fd-7a84-4a92-82c8-8bda1a157588" name="Default" comment="" />
+      <created>1461581048845</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1460983201383</updated>
-      <workItem from="1460983215468" duration="823000" />
-      <workItem from="1460984450886" duration="1128000" />
-      <workItem from="1461580604523" duration="221000" />
+      <updated>1461581048845</updated>
+      <workItem from="1461581055335" duration="316000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial hammerRest (client) commit">
+      <created>1461581295744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461581295744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial hammerRest (client) commit">
+      <created>1461581328098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1461581328098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2172000" />
+    <option name="totallyTimeSpent" value="316000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="999" extended-state="6" />
-    <editor active="true" />
+    <frame x="992" y="52" width="917" height="906" extended-state="4" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893157" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="client initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="client initial commit" />
+    <MESSAGE value="Initial hammerRest (client) commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial hammerRest (client) commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -816,80 +769,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itonkf16/gr2/TentConfigApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itonkf16/gr2/TentConfigApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tent-config.iml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itonkf16/gr2/TentConfigApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
