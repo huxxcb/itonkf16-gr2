@@ -1,0 +1,9 @@
+spring:
+  application: gateway-ui-config
+cloud:
+  config:
+    server:
+      git:
+        uri: http://localhost:9000
+
+
