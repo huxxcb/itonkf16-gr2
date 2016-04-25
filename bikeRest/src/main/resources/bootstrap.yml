@@ -1,6 +1,6 @@
 spring:
   application:
-    name: tent-config
+    name: bike-config
   cloud:
     config:
       uri: http://localhost:9000
