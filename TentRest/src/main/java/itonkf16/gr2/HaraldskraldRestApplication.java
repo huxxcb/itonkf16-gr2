@@ -1,31 +1,31 @@
-package com.haraldskrald;
+package itonkf16.gr2;
 
 import com.github.javafaker.Faker;
-import com.haraldskrald.Models.Bike;
-import com.haraldskrald.Repositories.BikeRepository;
+import itonkf16.gr2.Models.Tent;
+import itonkf16.gr2.Repositories.TentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+
 @SpringBootApplication
-public class BikeRestApplication {
+public class HaraldskraldRestApplication {
 
 	private final Faker faker = new Faker();
 
 	public static void main(String[] args) {
-		SpringApplication.run(BikeRestApplication.class, args);
+		SpringApplication.run(HaraldskraldRestApplication.class, args);
 	}
 
 	@Bean
-	public CommandLineRunner initializeDb(BikeRepository repository){
+	public CommandLineRunner initializeDb(TentRepository repository){
 		return (args) -> {
 			repository.deleteAll();
-			//Insert some random pies
+			//Insert some random Tents
 			for(int i = 0; i < 20; i++) {
-				repository.save(new Bike(faker.lorem().word(), faker.lorem().word(), faker.lorem().sentence(), (float)i));
+				repository.save(new Tent(faker.lorem().word(), faker.lorem().word(), faker.lorem().sentence(), (float)i));
 			}
 		};
 	}
-
 }
