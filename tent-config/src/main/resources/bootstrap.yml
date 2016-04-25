@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: tent-config
-  cloud:
-    config:
-      uri: https://github.com/huxxcb/itonkf16-gr2/config
