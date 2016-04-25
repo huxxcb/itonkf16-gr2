@@ -22,7 +22,7 @@ public class HaraldskraldRestApplication {
 	public CommandLineRunner initializeDb(TentRepository repository){
 		return (args) -> {
 			repository.deleteAll();
-			//Insert some random pies
+			//Insert some random Tents
 			for(int i = 0; i < 20; i++) {
 				repository.save(new Tent(faker.lorem().word(), faker.lorem().word(), faker.lorem().sentence(), (float)i));
 			}

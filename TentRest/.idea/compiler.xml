@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="haraldskrald-rest" />
+        <module name="TentRest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="haraldskrald-rest" target="1.8" />
+      <module name="TentRest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
