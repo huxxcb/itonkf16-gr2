@@ -14,7 +14,7 @@ import java.util.Collection;
  */
 
 @RestController
-@RequestMapping("/Tents")
+@RequestMapping("/tents")
 public class TentRestController {
     @Autowired
     private TentRepository repository;

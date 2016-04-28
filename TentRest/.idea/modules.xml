@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TentRest.iml" filepath="$PROJECT_DIR$/TentRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tentRest.iml" filepath="$PROJECT_DIR$/tentRest.iml" />
     </modules>
   </component>
 </project>
