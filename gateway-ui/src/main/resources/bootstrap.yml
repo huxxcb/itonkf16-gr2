@@ -3,6 +3,4 @@ spring:
     name: gateway-ui-config
   cloud:
     config:
-      server:
-        git:
-          uri: https://localhost:9000
+      uri: http://localhost:9000

@@ -14,7 +14,7 @@ import java.util.Collection;
  */
 
 @RestController
-@RequestMapping("/Bikes")
+@RequestMapping("/bikes")
 public class BikeRestController {
     @Autowired
     private BikeRepository repository;
