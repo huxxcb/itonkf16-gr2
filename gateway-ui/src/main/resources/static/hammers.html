@@ -1,5 +1,5 @@
-
 <h1>hello world! now with hammers!</h1>
-<body ng-app="gateway" ng-controller="navigation as nav">
-{{nav.testHammers}}
-</body>
+<div ng-repeat="item in nav.hammerList">
+    <h1><b>Brand</b></h1>
+    {{item.brand}}
+</div>
