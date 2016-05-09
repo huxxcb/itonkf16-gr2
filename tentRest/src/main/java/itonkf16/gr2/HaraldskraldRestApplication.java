@@ -12,20 +12,8 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 public class HaraldskraldRestApplication {
 
-	private final Faker faker = new Faker();
-
 	public static void main(String[] args) {
 		SpringApplication.run(HaraldskraldRestApplication.class, args);
 	}
 
-	@Bean
-	public CommandLineRunner initializeDb(TentRepository repository){
-		return (args) -> {
-			repository.deleteAll();
-			//Insert some random Tents
-			for(int i = 0; i < 20; i++) {
-				repository.save(new Tent(faker.lorem().word(), faker.lorem().word(), faker.lorem().sentence(), (float)i));
-			}
-		};
-	}
 }

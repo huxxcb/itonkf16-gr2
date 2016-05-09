@@ -10,4 +10,8 @@ angular.module('gateway', []).controller('navigation',
         self.hammers = function(){
             self.template = "hammers.html";
         };
+        
+        self.tents = function(){
+            self.template = "tents.html"
+        }
     });
