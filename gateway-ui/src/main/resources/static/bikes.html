@@ -1,2 +1,14 @@
 <!DOCTYPE html>
 
+
+<div ng-repeat="item in nav.bikelist track by $index" class="panel panel-default">
+    <div class="panel-body">
+        <img ng-src="{{item.image_url}}" />
+    </div>
+    <div class="panel-footer">
+        <strong>Brand: </strong>{{item.brand}} <br/>
+        <strong>Model:</strong> {{item.model}} <br/>
+        <strong>Description: </strong> {{item.description}} <br/>
+        <strong>Dollars: </strong> {{item.price}} <br/>
+    </div>
+</div>
