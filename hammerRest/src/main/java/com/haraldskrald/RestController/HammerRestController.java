@@ -16,22 +16,22 @@ public class HammerRestController {
     private HammerRepository repository;
 
     @RequestMapping(method = RequestMethod.GET)
-    public ResponseEntity<Collection<Hammer>> getAllTents(){
+    public ResponseEntity<Collection<Hammer>> getAllHammers(){
         return new ResponseEntity<>((Collection<Hammer>) repository.findAll(), HttpStatus.OK);
     }
 
     @RequestMapping(method = RequestMethod.GET, value = "/{id}")
-    public ResponseEntity<Hammer> getTentWithId(@PathVariable Long id) {
+    public ResponseEntity<Hammer> getHammerWithId(@PathVariable Long id) {
         return new ResponseEntity<>(repository.findOne(id), HttpStatus.OK);
     }
 
     @RequestMapping(method = RequestMethod.GET, params = {"brand"})
-    public ResponseEntity<Collection<Hammer>> findTentsWithBrand(@RequestParam(value="brand") String brand) {
+    public ResponseEntity<Collection<Hammer>> findHammersWithBrand(@RequestParam(value="brand") String brand) {
         return new ResponseEntity<>(repository.findByBrand(brand), HttpStatus.OK);
     }
 
     @RequestMapping(method = RequestMethod.POST)
-    public ResponseEntity<?> addTHammer(@RequestBody Hammer input) {
+    public ResponseEntity<?> addHammer(@RequestBody Hammer input) {
         return new ResponseEntity<>(repository.save(input), HttpStatus.CREATED);
     }
 
