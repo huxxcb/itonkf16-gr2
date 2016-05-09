@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0059e542-ceda-4af3-a25c-e108a4e2faee" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hammerRest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hammerRest/.idea/workspace.xml" />
     </list>
     <ignored path="ConfigServer.iws" />

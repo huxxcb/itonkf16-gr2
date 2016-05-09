@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="692fc8fd-7a84-4a92-82c8-8bda1a157588" name="Default" comment="Initial hammerRest (client) commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ConfigServer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ConfigServer/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hammerRest.iws" />
     <ignored path=".idea/workspace.xml" />
