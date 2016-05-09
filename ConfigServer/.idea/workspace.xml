@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0059e542-ceda-4af3-a25c-e108a4e2faee" name="Default" comment="fixed bike gateway issue.....">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/src/main/java/com/haraldskrald/GatewayUiApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Gateway-ui/src/test/java/com/haraldskrald/GatewayUiApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gateway-ui/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_1_0_RC2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gateway-ui/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_1_0_RC2.xml" />
+    <list default="true" id="0059e542-ceda-4af3-a25c-e108a4e2faee" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bikeRest/src/main/java/com/haraldskrald/BikeRestApplication.java" afterPath="$PROJECT_DIR$/../bikeRest/src/main/java/com/haraldskrald/BikeRestApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bikeRest/src/main/java/com/haraldskrald/RestControllers/BikeRestController.java" afterPath="$PROJECT_DIR$/../bikeRest/src/main/java/com/haraldskrald/RestControllers/BikeRestController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gateway-ui/gateway-ui.iml" afterPath="$PROJECT_DIR$/../gateway-ui/gateway-ui.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gateway-ui/pom.xml" afterPath="$PROJECT_DIR$/../gateway-ui/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gateway-ui/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/../gateway-ui/src/main/resources/bootstrap.yml" />
     </list>
     <ignored path="ConfigServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -518,6 +503,14 @@
       <workItem from="1461590883719" duration="12000" />
       <workItem from="1461592150963" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed bike gateway issue.....">
+      <created>1461835345605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1461835345605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -525,7 +518,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
