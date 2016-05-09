@@ -6,7 +6,7 @@ angular.module('gateway', []).controller('navigation',
         self.home = function(){
             self.template = "home.html";
         }
-
+        self.testHammers = "hammertime!"
         self.hammers = function(){
             self.template = "hammers.html";
         };
