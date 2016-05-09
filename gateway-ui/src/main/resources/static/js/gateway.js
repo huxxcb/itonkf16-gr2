@@ -17,6 +17,7 @@ angular.module('gateway', []).controller('navigation',
                         });
         };
 
+
          self.tents = function(){
                     self.template = "tents.html";
          };
@@ -24,4 +25,5 @@ angular.module('gateway', []).controller('navigation',
          self.bikes = function(){
                      self.template = "bikes.html";
          };
+
     });

@@ -24,10 +24,12 @@
         <processorPath useClasspath="true" />
         <module name="haraldskrald-rest" />
         <module name="TentRest" />
+        <module name="tentRest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="haraldskrald-rest" target="1.8" />
+      <module name="tentRest" target="1.8" />
       <module name="TentRest" target="1.8" />
     </bytecodeTargetLevel>
   </component>
