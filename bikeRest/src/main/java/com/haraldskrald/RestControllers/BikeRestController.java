@@ -31,7 +31,7 @@ public class BikeRestController {
                 "https://dl.dropboxusercontent.com/u/6643009/tribe.jpg"));
         col.add(new Bike("Moots",
                 "City Biek",
-                "This is biek for city, very good for small hill, cost much",
+                "This is biek for city, very good for small hill, cost too much",
                 8995.95f,
                 "https://dl.dropboxusercontent.com/u/6643009/moots.jpg"));
         col.add(new Bike("Trek",
