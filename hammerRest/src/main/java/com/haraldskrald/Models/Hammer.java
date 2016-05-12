@@ -40,7 +40,7 @@ public class Hammer {
         return description;
     }
 
-    public String getImage_Url(){ return  image_url; }
+    public String getImage_url(){ return  image_url; }
 
     public Float getPrice() {
         return price;
