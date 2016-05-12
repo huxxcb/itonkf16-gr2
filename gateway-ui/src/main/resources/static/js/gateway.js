@@ -6,8 +6,24 @@ angular.module('gateway', []).controller('navigation',
         self.home = function(){
             self.template = "home.html";
         }
-        self.testHammers = "hammertime!"
+
         self.hammers = function(){
             self.template = "hammers.html";
+            $http.get('hammers', {
+                        }).success(function(data) {
+                            self.hammerList = data;
+                        }).error(function() {
+                            alert("Error");
+                        });
         };
+
+
+         self.tents = function(){
+                    self.template = "tents.html";
+         };
+
+         self.bikes = function(){
+                     self.template = "bikes.html";
+         };
+
     });

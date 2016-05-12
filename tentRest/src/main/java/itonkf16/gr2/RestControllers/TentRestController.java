@@ -7,7 +7,9 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.ArrayList;
 import java.util.Collection;
+import java.util.List;
 
 /**
  * Created by mikje53 on 4/18/16.
@@ -21,7 +23,26 @@ public class TentRestController {
 
     @RequestMapping(method = RequestMethod.GET)
     public ResponseEntity<Collection<Tent>> getAllTents(){
-        return new ResponseEntity<>((Collection<Tent>) repository.findAll(), HttpStatus.OK);
+
+        List<Tent> tentList = new ArrayList<>();
+
+        tentList.add(new Tent("Skandika",
+                "Nimbus",
+                "Do you want a tent, where you can fit in everyone, well this is it!",
+                "https://dl.dropboxusercontent.com/u/2515641/715LCf2u9EL._SL1500_.jpg",
+                54.99f));
+        tentList.add(new Tent("Coleman",
+                "Sundome",
+                "A tent where you can fit some people",
+                "https://dl.dropboxusercontent.com/u/2515641/Coleman-Sundome-4-Person-Tent-2.jpg",
+                24.99f));
+        tentList.add(new Tent("Vango",
+                "Appleby",
+                "This is a modern take on old time tournament tents!",
+                "https://dl.dropboxusercontent.com/u/2515641/Vango-Appleby-500-Family-Tent.jpg",
+                9.99f));
+
+        return new ResponseEntity<>(tentList, HttpStatus.OK);
     }
 
     @RequestMapping(method = RequestMethod.GET, value = "/{id}")
