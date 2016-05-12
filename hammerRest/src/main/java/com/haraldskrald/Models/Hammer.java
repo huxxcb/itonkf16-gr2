@@ -14,16 +14,16 @@ public class Hammer {
     private String brand;
     private String model;
     private String description;
-    private String image_Url;
+    private String image_url;
     private Float price;
 
     public Hammer() {}
 
-    public Hammer(String brand, String model, String description, String image_Url, Float price) {
+    public Hammer(String brand, String model, String description, String image_url, Float price) {
         this.brand = brand;
         this.model = model;
         this.description = description;
-        this.image_Url = image_Url;
+        this.image_url = image_url;
         this.price = price;
 
     }
@@ -40,7 +40,7 @@ public class Hammer {
         return description;
     }
 
-    public String getImage_Url(){ return  image_Url; }
+    public String getImage_Url(){ return  image_url; }
 
     public Float getPrice() {
         return price;
