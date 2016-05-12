@@ -23,7 +23,13 @@ angular.module('gateway', []).controller('navigation',
          };
 
          self.bikes = function(){
-                     self.template = "bikes.html";
+            self.template = "bikes.html";
+            $http.get('bikes', {
+                        }).success(function(data) {
+                            self.bikeList = data;
+                        }).error(function() {
+                            alert("Error");
+                        });
          };
 
     });
