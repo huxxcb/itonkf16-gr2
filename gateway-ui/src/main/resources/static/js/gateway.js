@@ -20,6 +20,12 @@ angular.module('gateway', []).controller('navigation',
 
          self.tents = function(){
                     self.template = "tents.html";
+             $http.get('tents', {
+             }).success(function(data) {
+                 self.tentList = data;
+             }).error(function() {
+                 alert("Error");
+             });
          };
 
          self.bikes = function(){
