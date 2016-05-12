@@ -17,7 +17,7 @@ public class Tent {
     private String brand;
     private String model;
     private String description;
-    private String imageUrl;
+    private String image_url;
 
     private Float price;
 
@@ -28,7 +28,7 @@ public class Tent {
         this.brand = brand;
         this.model = model;
         this.description = description;
-        this.imageUrl = imageUrl;
+        this.image_url = imageUrl;
         this.price = price;
 
     }
@@ -54,11 +54,11 @@ public class Tent {
         return description;
     }
 
-    public void setImageUrl(String imageUrl) {
-        this.imageUrl = imageUrl;
+    public void setImageUrl(String image_url) {
+        this.image_url = image_url;
     }
     public String getImageUrl() {
-        return imageUrl;
+        return image_url;
     }
 
     public void setPrice(Float price) {
