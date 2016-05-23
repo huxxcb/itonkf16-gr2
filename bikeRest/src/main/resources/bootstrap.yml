@@ -3,4 +3,4 @@ spring:
     name: bike-config
   cloud:
     config:
-      uri: http://harald-skrald:9000
+      uri: http://haraldskrald-config:9000
