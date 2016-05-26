@@ -1,0 +1,27 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: tent-service
+    visualize: "true"
+  name: tent-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      run: tent-service
+      visualize: "true"
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: tent-service
+        visualize: "true"
+    spec:
+      containers:
+      - image: mikje53/itonk-tent-rest
+        name: tent-service
+        resources: {}
+status: {}

@@ -1,0 +1,27 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: haraldskrald-config
+    visualize: "true"
+  name: haraldskrald-config
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: haraldskrald-config
+      visualize: "true"
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: haraldskrald-config
+        visualize: "true"
+    spec:
+      containers:
+      - image: mikje53/itonk-config-server
+        name: haraldskrald-config
+        resources: {}
+status: {}

@@ -1,0 +1,27 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: hammer-service
+    visualize: "true"
+  name: hammer-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      run: hammer-service
+      visualize: "true"
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: hammer-service
+        visualize: "true"
+    spec:
+      containers:
+      - image: mikje53/itonk-hammer-rest
+        name: hammer-service
+        resources: {}
+status: {}

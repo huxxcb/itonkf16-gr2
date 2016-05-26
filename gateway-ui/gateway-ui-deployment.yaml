@@ -1,0 +1,27 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    run: gateway-ui
+    visualize: "true"
+  name: gateway-ui
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      run: gateway-ui
+      visualize: "true"
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        run: gateway-ui
+        visualize: "true"
+    spec:
+      containers:
+      - image: mikje53/itonk-gateway-ui
+        name: gateway-ui
+        resources: {}
+status: {}
